@@ -1,0 +1,5 @@
+Flask
+schedule
+python-dotenv
+smtplib
+email-validator
